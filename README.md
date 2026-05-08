@@ -68,12 +68,7 @@ Possible applications could include:
 
 ## Tech Stack
 
-- Python
-- OpenCV
-- NumPy
-- YOLO / Custom Models
-- PyTorch or TensorFlow
-
+TO BE UPDATED
 ---
 
 ## Notes
