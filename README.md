@@ -7,4 +7,4 @@ This is inspired from the games such as RUST or Last Island of survival where th
 here are some images to depict the examples where the inspiration comes from :
 
 # shoulder turret 
-![example1](images\Jet-Suit-with-Head-Tracking-Airsoft-Gun-Featured-image.jpg)
+![example1](./images/Jet-Suit-with-Head-Tracking-Airsoft-Gun-Featured-image.jpg)
