@@ -1,15 +1,81 @@
 # ObjectDelivery-ProjectileBased-AutomaticTurret
-This is a project that can be used in Drones to deliver drugs to hospitals or as a automatic military Artillery to delivery a shot or can be used in real life robotics to predict incoming objects and avoid them , this can comprise of object detection and depth mapping using computer vision and existing technology and custom trained models
 
+A computer vision and robotics project focused on automatic target tracking, depth estimation, and projectile prediction.
 
-This is inspired from the games such as RUST or Last Island of survival where the turrets attack you based on if youre a known user or not if not it attacks you , but this can have more applications in real world other than mercy-less killing. and its a very fun project to understand and apply computer vision and Basic mathematics and kinematics.
+This project is mainly being built to learn and experiment with:
 
-here are some images to depict the examples where the inspiration comes from :
+- Object detection
+- Motion tracking
+- Depth mapping
+- Basic kinematics
+- Prediction systems
+- Robotics automation
 
-# shoulder turret 
-![example1](./images/Jet-Suit-with-Head-Tracking-Airsoft-Gun-Featured-image.jpg)
+The idea was inspired by automatic turret systems from games like **Rust** and **Last Island of Survival**, where turrets identify and react to nearby players.  
+I wanted to explore how similar concepts could be applied using real-world computer vision and robotics systems.
 
-# inspirations from games:
-![example2](./gifs/3098803439_preview_autoturret-rust.gif)
-![example3](./images/images.jpg)
-![example4](./images/Turret_icon.webp)
+Possible applications could include:
+
+- Drone-based delivery systems
+- Robotic object tracking
+- Collision prediction and avoidance
+- Automated monitoring systems
+- Robotics research and learning
+
+---
+
+# Shoulder Turret Inspiration
+
+<p align="center">
+  <img src="./images/Jet-Suit-with-Head-Tracking-Airsoft-Gun-Featured-image.jpg" width="850"/>
+</p>
+
+---
+
+# Inspiration From Games
+
+## Rust Auto Turret
+
+<p align="center">
+  <img src="./gifs/3098803439_preview_autoturret-rust.gif" width="850"/>
+</p>
+
+---
+
+## Other References
+
+<p align="center">
+  <img src="./images/images.jpg" width="700"/>
+</p>
+
+<p align="center">
+  <img src="./images/Turret_icon.webp" width="300"/>
+</p>
+
+---
+
+## Planned Features
+
+- Real-time object detection
+- Target tracking
+- Basic trajectory prediction
+- Automatic aiming logic
+- Depth estimation
+- Motion prediction
+- Custom-trained detection models
+
+---
+
+## Tech Stack
+
+- Python
+- OpenCV
+- NumPy
+- YOLO / Custom Models
+- PyTorch or TensorFlow
+
+---
+
+## Notes
+
+This project is mainly for learning, experimentation, and robotics/computer vision research.
