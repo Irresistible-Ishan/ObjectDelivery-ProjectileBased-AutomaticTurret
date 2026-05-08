@@ -43,14 +43,10 @@ Possible applications could include:
 ---
 
 ## Other References
-
 <p align="center">
-  <img src="./images/images.jpg" width="700"/>
+  <img src="./images/disclaimer-AIGenerated.png" width="850"/>
 </p>
 
-<p align="center">
-  <img src="./images/Turret_icon.webp" width="300"/>
-</p>
 
 ---
 
