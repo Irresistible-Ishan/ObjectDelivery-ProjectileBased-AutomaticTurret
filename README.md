@@ -8,3 +8,8 @@ here are some images to depict the examples where the inspiration comes from :
 
 # shoulder turret 
 ![example1](./images/Jet-Suit-with-Head-Tracking-Airsoft-Gun-Featured-image.jpg)
+
+# inspirations from games:
+![example2](./gifs/3098803439_preview_autoturret-rust.gif)
+![example3](./images/images.jpg)
+![example4](./images/Turret_icon.webp)
